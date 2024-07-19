@@ -16,7 +16,7 @@
     // echo $angka_a;
 
     // Kondisi
-    /*
+    
     $cuaca_sekarang = "deras";
 
     if($cuaca_sekarang == "hujan"){
@@ -34,7 +34,7 @@
     else{
         echo "Kondisi tidak diketahui";
     }
-    */
+    
 
     // Looping
     for($i=0 ; $i<10 ; $i++){
