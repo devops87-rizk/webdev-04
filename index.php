@@ -14,6 +14,25 @@
 
     // var_dump($angka_a > $angka_b);
     // echo $angka_a;
-    
+
+    // Kondisi
+    $cuaca_sekarang = "deras";
+
+    if($cuaca_sekarang == "hujan"){
+        echo "bawa payung";
+    }
+
+    elseif($cuaca_sekarang == "panas"){
+        echo "bawa Jaket";
+    }
+
+    elseif($cuaca_sekarang == "mendung"){
+        echo "bawa jaket dan payung";
+    }
+
+    else{
+        echo "Kondisi tidak diketahui"
+    }
+
 
 ?>
