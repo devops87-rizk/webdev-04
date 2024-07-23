@@ -17,30 +17,37 @@
 
     // Kondisi
     
-    $cuaca_sekarang = "deras";
+    // $cuaca_sekarang = "deras";
 
-    if($cuaca_sekarang == "hujan"){
-        echo "bawa payung";
-    }
+    // if($cuaca_sekarang == "hujan"){
+    //     echo "bawa payung";
+    // }
 
-    elseif($cuaca_sekarang == "panas"){
-        echo "bawa Jaket";
-    }
+    // elseif($cuaca_sekarang == "panas"){
+    //     echo "bawa Jaket";
+    // }
 
-    elseif($cuaca_sekarang == "mendung"){
-        echo "bawa jaket dan payung";
-    }
+    // elseif($cuaca_sekarang == "mendung"){
+    //     echo "bawa jaket dan payung";
+    // }
 
-    else{
-        echo "Kondisi tidak diketahui";
-    }
+    // else{
+    //     echo "Kondisi tidak diketahui";
+    // }
     
 
     // Looping
-    for($i=0 ; $i<10 ; $i++){
-            echo $i;
-            echo "<br>";
+    // for($i=0 ; $i<10 ; $i++){
+    //         echo $i;
+    //         echo "<br>";
+    // }
+
+    $list_siswa = ["Budi", "Andi", "Rudi"];
+    foreach($list_siswa as $nama){
+        echo $nama."<br>";
     }
+
+
 
 
 ?>
