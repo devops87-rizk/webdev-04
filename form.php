@@ -11,10 +11,8 @@
     <form action="">
         <label for="">Nama Lengkap</label>
         <input type="text">
-        <br>
         <label for="">Usia</label>
         <input type="text">
-        <br>
         <label for="">Jenis Kelamin</label>
         <input type="text">
     </form>
