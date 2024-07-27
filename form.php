@@ -8,15 +8,15 @@
 <body>
     <h1>Form Pendaftaran</h1>
 
-    <form action="tujuan.php">
+    <form action="tujuan.php" method="get">
         <label for="">Nama Lengkap</label>
-        <input type="text">
+        <input type="text" name="nama_lengkap">
         <br>
         <label for="">Usia</label>
-        <input type="text">
+        <input type="text" age="usia">
         <br>
         <label for="">Jenis Kelamin</label>
-        <input type="text">
+        <input type="text" sex="jenis_kelamin">
     </form>
 </body>
 </html>
