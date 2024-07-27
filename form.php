@@ -14,6 +14,9 @@
         <br>
         <label for="">Usia</label>
         <input type="text">
+        <br>
+        <label for="">Jenis Kelamin</label>
+        <input type="text">
     </form>
     
 </body>
