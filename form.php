@@ -18,6 +18,5 @@
         <label for="">Jenis Kelamin</label>
         <input type="text">
     </form>
-    
 </body>
 </html>
