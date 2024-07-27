@@ -42,7 +42,7 @@
     //         echo "<br>";
     // }
 
-    $list_siswa = ["Budi", "Andi", "Rudi"];
+    $list_siswa = ["Ali", "Ani", "Rudi"];
     foreach($list_siswa as $nama){
         echo $nama."<br>";
     }
