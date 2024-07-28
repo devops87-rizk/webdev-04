@@ -1,3 +1,3 @@
 <?php
-    echo $_POST['nama_lengkap']
+    echo $_POST['nama_lengkap'];
 ?>
