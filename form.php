@@ -8,7 +8,7 @@
 <body>
     <h1>Form Pendaftaran</h1>
 
-    <form action="tujuan.php" method="get">
+    <form action="tujuan.php" method="post">
 
         <label for="">Nama Lengkap</label>
         <input type="text" name="nama_lengkap">
